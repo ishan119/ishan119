@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan theekshana</h1>
 <h3 align="center">Student In (IJSE).Institute Java and software engineering</h3>
-<image src = "https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan119&label=Profile%20views&color=0e75b6&style=flat" alt="ishan119" /> </p>
 
@@ -14,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ishan aluthge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan aluthge" height="30" width="40" /></a>
 <a href="https://fb.com/ishan theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishan theekshana" height="30" width="40" /></a>
 <a href="https://instagram.com/ishan__theekshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishan__theekshana" height="30" width="40" /></a>
 <a href="https://discord.gg/𝐻𝓊𝓃𝒢𝑒𝓇#9493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="𝐻𝓊𝓃𝒢𝑒𝓇#9493" height="30" width="40" /></a>
