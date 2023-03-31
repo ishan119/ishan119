@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishan theekshana</h1>
+<h1 align="center">Hi 👋, I'm Ishan Aluthge</h1>
 <h3 align="center">Student In (IJSE).Institute Java and software engineering</h3>
 <img src = "https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png">
 
